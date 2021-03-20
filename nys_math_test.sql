@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS nys_math_test
 CREATE TABLE nys_math_test(
 grade VARCHAR PRIMARY KEY,
 studying_year  INT,
