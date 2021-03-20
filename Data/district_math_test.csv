@@ -1,0 +1,1569 @@
+Grade,Studying Year,Demographic,Number Tested,Mean Scale Score
+3,2006,All Students,936,673
+3,2007,All Students,836,679
+3,2008,All Students,862,686
+3,2009,All Students,914,691
+3,2010,All Students,866,697
+3,2011,All Students,826,689
+3,2012,All Students,861,690
+4,2006,All Students,895,670
+4,2007,All Students,868,673
+4,2008,All Students,848,677
+4,2009,All Students,846,685
+4,2010,All Students,906,687
+4,2011,All Students,865,690
+4,2012,All Students,819,693
+5,2006,All Students,798,657
+5,2007,All Students,870,668
+5,2008,All Students,856,677
+5,2009,All Students,811,685
+5,2010,All Students,807,681
+5,2011,All Students,875,687
+5,2012,All Students,842,691
+6,2006,All Students,912,659
+6,2007,All Students,795,667
+6,2008,All Students,869,672
+6,2009,All Students,895,682
+6,2010,All Students,801,685
+6,2011,All Students,828,685
+6,2012,All Students,905,687
+7,2006,All Students,967,648
+7,2007,All Students,914,658
+7,2008,All Students,848,672
+7,2009,All Students,861,680
+7,2010,All Students,880,681
+7,2011,All Students,774,684
+7,2012,All Students,796,686
+8,2006,All Students,881,644
+8,2007,All Students,925,652
+8,2008,All Students,903,664
+8,2009,All Students,856,669
+8,2010,All Students,907,672
+8,2011,All Students,893,677
+8,2012,All Students,811,685
+All Grades,2006,All Students,5389,659
+All Grades,2007,All Students,5208,666
+All Grades,2008,All Students,5186,674
+All Grades,2009,All Students,5183,682
+All Grades,2010,All Students,5167,684
+All Grades,2011,All Students,5061,685
+All Grades,2012,All Students,5034,689
+3,2006,All Students,2281,690
+3,2007,All Students,2286,699
+3,2008,All Students,2300,701
+3,2009,All Students,2442,702
+3,2010,All Students,2353,707
+3,2011,All Students,2498,698
+3,2012,All Students,2693,697
+4,2006,All Students,2298,692
+4,2007,All Students,2242,698
+6,2006,All Students,2317,633
+4,2008,All Students,2279,704
+4,2009,All Students,2310,713
+4,2010,All Students,2527,707
+4,2011,All Students,2378,708
+4,2012,All Students,2548,710
+5,2006,All Students,2281,684
+5,2007,All Students,2198,691
+5,2008,All Students,2173,698
+5,2009,All Students,2246,703
+5,2010,All Students,2339,702
+5,2011,All Students,2499,703
+5,2012,All Students,2383,707
+6,2006,All Students,2218,671
+6,2007,All Students,2197,680
+6,2008,All Students,2129,685
+6,2009,All Students,2087,692
+6,2010,All Students,2274,692
+6,2011,All Students,2253,697
+6,2012,All Students,2452,699
+7,2006,All Students,2216,664
+7,2007,All Students,2190,676
+7,2008,All Students,2138,683
+7,2009,All Students,2161,692
+7,2010,All Students,2185,688
+7,2011,All Students,2239,695
+7,2012,All Students,2294,697
+8,2006,All Students,2442,667
+8,2007,All Students,2208,666
+8,2008,All Students,2198,677
+8,2009,All Students,2229,684
+8,2010,All Students,2295,689
+8,2011,All Students,2231,691
+8,2012,All Students,2304,692
+All Grades,2006,All Students,13736,678
+All Grades,2007,All Students,13321,685
+All Grades,2008,All Students,13217,691
+All Grades,2009,All Students,13475,698
+All Grades,2010,All Students,13973,698
+All Grades,2011,All Students,14098,699
+All Grades,2012,All Students,14674,700
+3,2006,All Students,1466,674
+3,2007,All Students,1441,683
+3,2008,All Students,1402,687
+3,2009,All Students,1406,690
+3,2010,All Students,1402,692
+3,2011,All Students,1401,691
+3,2012,All Students,1360,693
+4,2006,All Students,1470,674
+4,2007,All Students,1357,683
+4,2008,All Students,1383,684
+4,2009,All Students,1384,694
+4,2010,All Students,1407,692
+4,2011,All Students,1394,694
+4,2012,All Students,1397,697
+5,2006,All Students,1492,665
+5,2007,All Students,1412,672
+5,2008,All Students,1358,680
+5,2009,All Students,1320,690
+5,2010,All Students,1346,688
+5,2011,All Students,1377,690
+5,2012,All Students,1374,693
+6,2006,All Students,1501,657
+6,2007,All Students,1380,671
+6,2008,All Students,1323,673
+6,2009,All Students,1278,683
+6,2010,All Students,1261,683
+6,2011,All Students,1293,692
+6,2012,All Students,1339,690
+7,2006,All Students,1513,647
+7,2007,All Students,1479,662
+7,2008,All Students,1331,674
+7,2009,All Students,1309,680
+7,2010,All Students,1243,682
+7,2011,All Students,1230,684
+7,2012,All Students,1276,686
+8,2006,All Students,1605,648
+8,2007,All Students,1450,656
+8,2008,All Students,1445,659
+8,2009,All Students,1335,673
+8,2010,All Students,1297,676
+8,2011,All Students,1260,680
+8,2012,All Students,1228,682
+All Grades,2006,All Students,9047,661
+All Grades,2007,All Students,8519,671
+All Grades,2008,All Students,8242,676
+All Grades,2009,All Students,8032,685
+All Grades,2010,All Students,7956,686
+All Grades,2011,All Students,7955,689
+All Grades,2012,All Students,7974,690
+3,2006,All Students,1189,667
+3,2007,All Students,1240,676
+3,2008,All Students,1144,680
+3,2009,All Students,1137,688
+3,2010,All Students,1115,686
+3,2011,All Students,1160,682
+3,2012,All Students,1062,686
+4,2006,All Students,1275,663
+4,2007,All Students,1203,664
+4,2008,All Students,1181,672
+4,2009,All Students,1151,685
+4,2010,All Students,1138,680
+4,2011,All Students,1091,683
+4,2012,All Students,1105,684
+5,2006,All Students,1261,654
+5,2007,All Students,1270,661
+5,2008,All Students,1116,668
+5,2009,All Students,1149,678
+5,2010,All Students,1103,677
+5,2011,All Students,1089,679
+5,2012,All Students,1056,680
+6,2006,All Students,1469,649
+6,2007,All Students,1192,649
+6,2008,All Students,1190,659
+6,2009,All Students,1140,664
+6,2010,All Students,1109,666
+6,2011,All Students,1081,671
+6,2012,All Students,1067,675
+7,2006,All Students,1420,627
+7,2007,All Students,1401,645
+7,2008,All Students,1238,656
+7,2009,All Students,1215,666
+7,2010,All Students,1133,663
+7,2011,All Students,1118,666
+7,2012,All Students,1114,667
+8,2006,All Students,1383,628
+8,2007,All Students,1423,630
+8,2008,All Students,1330,646
+8,2009,All Students,1208,657
+8,2010,All Students,1186,663
+8,2011,All Students,1146,667
+8,2012,All Students,1141,669
+All Grades,2006,All Students,7997,647
+All Grades,2007,All Students,7729,653
+All Grades,2008,All Students,7199,663
+All Grades,2009,All Students,7000,673
+All Grades,2010,All Students,6784,672
+All Grades,2011,All Students,6685,674
+All Grades,2012,All Students,6545,677
+3,2006,All Students,1149,656
+3,2007,All Students,1117,667
+3,2008,All Students,1068,672
+3,2009,All Students,1076,676
+3,2010,All Students,1005,680
+3,2011,All Students,959,674
+3,2012,All Students,977,677
+4,2006,All Students,1125,655
+4,2007,All Students,1167,656
+4,2008,All Students,1062,660
+4,2009,All Students,1058,667
+4,2010,All Students,1048,667
+4,2011,All Students,1015,669
+4,2012,All Students,942,668
+5,2006,All Students,1154,639
+5,2007,All Students,1187,654
+5,2008,All Students,1086,658
+5,2009,All Students,888,668
+5,2010,All Students,980,666
+5,2011,All Students,905,670
+5,2012,All Students,923,666
+6,2006,All Students,1291,642
+6,2007,All Students,1226,651
+6,2008,All Students,1303,660
+6,2009,All Students,1202,669
+6,2010,All Students,1058,663
+6,2011,All Students,1010,667
+6,2012,All Students,996,663
+7,2006,All Students,1394,632
+7,2007,All Students,1321,643
+7,2008,All Students,1198,654
+7,2009,All Students,1249,666
+7,2010,All Students,1195,661
+7,2011,All Students,1092,661
+7,2012,All Students,1074,660
+8,2006,All Students,1324,627
+8,2007,All Students,1449,635
+8,2008,All Students,1235,646
+8,2009,All Students,1193,658
+8,2010,All Students,1238,664
+8,2011,All Students,1192,665
+8,2012,All Students,1089,664
+All Grades,2006,All Students,7437,641
+All Grades,2007,All Students,7467,650
+All Grades,2008,All Students,6952,658
+All Grades,2009,All Students,6666,667
+All Grades,2010,All Students,6524,667
+All Grades,2011,All Students,6173,667
+All Grades,2012,All Students,6001,666
+3,2006,All Students,2610,662
+3,2007,All Students,2535,669
+3,2008,All Students,2238,672
+3,2009,All Students,2217,679
+3,2010,All Students,2177,681
+3,2011,All Students,2162,678
+3,2012,All Students,2252,680
+4,2006,All Students,2557,654
+4,2007,All Students,2504,660
+4,2008,All Students,2404,665
+4,2009,All Students,2173,674
+4,2010,All Students,2217,673
+4,2011,All Students,2241,677
+4,2012,All Students,2099,678
+5,2006,All Students,2798,647
+5,2007,All Students,2447,657
+5,2008,All Students,2325,663
+5,2009,All Students,2310,675
+5,2010,All Students,1970,673
+5,2011,All Students,1952,675
+5,2012,All Students,1904,676
+6,2006,All Students,2704,638
+6,2007,All Students,2510,649
+6,2008,All Students,2281,657
+6,2009,All Students,2197,665
+6,2010,All Students,2174,667
+6,2011,All Students,1978,669
+6,2012,All Students,1938,671
+7,2006,All Students,2832,632
+7,2007,All Students,2797,645
+7,2008,All Students,2560,657
+7,2009,All Students,2278,668
+7,2010,All Students,2264,664
+7,2011,All Students,2215,668
+7,2012,All Students,1979,666
+8,2006,All Students,2860,632
+8,2007,All Students,2796,639
+8,2008,All Students,2763,650
+8,2009,All Students,2583,661
+8,2010,All Students,2400,669
+8,2011,All Students,2340,668
+8,2012,All Students,2280,672
+All Grades,2006,All Students,16361,644
+All Grades,2007,All Students,15589,652
+All Grades,2008,All Students,14571,660
+All Grades,2009,All Students,13758,670
+All Grades,2010,All Students,13202,671
+All Grades,2011,All Students,12888,672
+All Grades,2012,All Students,12452,674
+3,2006,All Students,1463,655
+3,2007,All Students,1431,666
+3,2008,All Students,1366,669
+3,2009,All Students,1352,676
+3,2010,All Students,1363,678
+3,2011,All Students,1330,676
+3,2012,All Students,1439,676
+4,2006,All Students,1394,650
+4,2007,All Students,1475,653
+4,2008,All Students,1389,660
+4,2009,All Students,1321,669
+4,2010,All Students,1333,668
+4,2011,All Students,1377,669
+4,2012,All Students,1322,671
+5,2006,All Students,1570,640
+5,2007,All Students,1487,649
+5,2008,All Students,1416,655
+5,2009,All Students,1329,666
+5,2010,All Students,1305,667
+5,2011,All Students,1294,668
+5,2012,All Students,1317,669
+6,2006,All Students,1569,626
+6,2007,All Students,1521,637
+6,2008,All Students,1422,646
+6,2009,All Students,1401,657
+6,2010,All Students,1378,660
+6,2011,All Students,1393,663
+6,2012,All Students,1361,660
+7,2006,All Students,1648,621
+7,2007,All Students,1626,634
+7,2008,All Students,1543,645
+7,2009,All Students,1416,659
+7,2010,All Students,1393,658
+7,2011,All Students,1373,659
+7,2012,All Students,1385,659
+8,2006,All Students,1540,615
+8,2007,All Students,1613,627
+8,2008,All Students,1518,641
+8,2009,All Students,1561,656
+8,2010,All Students,1435,659
+8,2011,All Students,1397,659
+8,2012,All Students,1333,662
+All Grades,2006,All Students,9184,634
+All Grades,2007,All Students,9153,644
+All Grades,2008,All Students,8654,652
+All Grades,2009,All Students,8380,664
+All Grades,2010,All Students,8207,665
+All Grades,2011,All Students,8164,665
+All Grades,2012,All Students,8157,666
+3,2006,All Students,2423,667
+3,2007,All Students,2366,677
+3,2008,All Students,2273,680
+3,2009,All Students,2367,684
+3,2010,All Students,2375,684
+3,2011,All Students,2337,680
+3,2012,All Students,2273,682
+4,2006,All Students,2250,664
+4,2007,All Students,2444,666
+4,2008,All Students,2273,672
+4,2009,All Students,2357,682
+4,2010,All Students,2428,678
+4,2011,All Students,2364,679
+4,2012,All Students,2313,680
+5,2006,All Students,2398,650
+5,2007,All Students,2370,660
+5,2008,All Students,2411,669
+5,2009,All Students,2275,677
+5,2010,All Students,2387,677
+5,2011,All Students,2467,678
+5,2012,All Students,2370,681
+6,2006,All Students,2282,638
+6,2007,All Students,2375,647
+6,2008,All Students,2250,658
+6,2009,All Students,2361,661
+6,2010,All Students,2343,665
+6,2011,All Students,2346,666
+6,2012,All Students,2305,665
+7,2006,All Students,2561,633
+7,2007,All Students,2368,644
+7,2008,All Students,2382,654
+7,2009,All Students,2319,662
+7,2010,All Students,2428,662
+7,2011,All Students,2391,661
+7,2012,All Students,2348,663
+8,2006,All Students,2528,629
+8,2007,All Students,2529,637
+8,2008,All Students,2362,644
+8,2009,All Students,2359,659
+8,2010,All Students,2440,661
+8,2011,All Students,2405,664
+8,2012,All Students,2400,663
+All Grades,2006,All Students,14442,646
+All Grades,2007,All Students,14452,655
+All Grades,2008,All Students,13951,663
+All Grades,2009,All Students,14038,671
+All Grades,2010,All Students,14401,671
+All Grades,2011,All Students,14310,671
+All Grades,2012,All Students,14009,672
+3,2006,All Students,3226,657
+3,2007,All Students,3076,668
+3,2008,All Students,2992,674
+3,2009,All Students,2973,678
+3,2010,All Students,2921,679
+3,2011,All Students,2967,677
+3,2012,All Students,2923,676
+4,2006,All Students,3016,650
+4,2007,All Students,3076,658
+4,2008,All Students,2888,663
+4,2009,All Students,2890,673
+4,2010,All Students,2899,668
+4,2011,All Students,2862,671
+4,2012,All Students,2853,673
+5,2006,All Students,3056,638
+5,2007,All Students,3127,647
+5,2008,All Students,2859,657
+5,2009,All Students,2742,666
+5,2010,All Students,2798,668
+5,2011,All Students,2740,671
+5,2012,All Students,2744,671
+6,2006,All Students,2932,628
+6,2007,All Students,2872,644
+6,2008,All Students,3016,649
+6,2009,All Students,2769,659
+6,2010,All Students,2823,662
+6,2011,All Students,2914,664
+6,2012,All Students,2911,666
+7,2006,All Students,3205,622
+7,2007,All Students,3086,637
+7,2008,All Students,3065,651
+7,2009,All Students,2958,659
+7,2010,All Students,2944,657
+7,2011,All Students,2891,660
+7,2012,All Students,2937,660
+8,2006,All Students,3292,621
+8,2007,All Students,3203,629
+8,2008,All Students,3021,644
+8,2009,All Students,2941,657
+8,2010,All Students,3169,660
+8,2011,All Students,3039,661
+8,2012,All Students,2833,665
+All Grades,2006,All Students,18727,636
+All Grades,2007,All Students,18440,647
+All Grades,2008,All Students,17841,656
+All Grades,2009,All Students,17273,665
+All Grades,2010,All Students,17554,665
+All Grades,2011,All Students,17413,667
+All Grades,2012,All Students,17201,669
+3,2006,All Students,4161,664
+3,2007,All Students,4163,674
+3,2008,All Students,3996,678
+3,2009,All Students,4057,684
+3,2010,All Students,4150,685
+3,2011,All Students,4048,681
+3,2012,All Students,4216,682
+4,2006,All Students,4057,659
+4,2007,All Students,4041,664
+4,2008,All Students,4031,668
+4,2009,All Students,3944,680
+4,2010,All Students,4100,676
+4,2011,All Students,4175,676
+4,2012,All Students,3950,680
+5,2006,All Students,4388,649
+5,2007,All Students,4144,659
+5,2008,All Students,3978,666
+5,2009,All Students,3991,676
+5,2010,All Students,3939,675
+5,2011,All Students,4134,677
+5,2012,All Students,4089,677
+6,2006,All Students,4170,638
+6,2007,All Students,4264,649
+6,2008,All Students,3938,657
+6,2009,All Students,4039,668
+6,2010,All Students,3919,668
+6,2011,All Students,3873,670
+6,2012,All Students,4044,672
+7,2006,All Students,4359,633
+7,2007,All Students,4168,646
+7,2008,All Students,4191,654
+7,2009,All Students,3985,666
+7,2010,All Students,3828,663
+7,2011,All Students,3886,665
+7,2012,All Students,3837,663
+8,2006,All Students,4412,631
+8,2007,All Students,4357,638
+8,2008,All Students,4000,650
+8,2009,All Students,4268,662
+8,2010,All Students,3836,664
+8,2011,All Students,3908,665
+8,2012,All Students,3848,670
+All Grades,2006,All Students,25547,645
+All Grades,2007,All Students,25137,655
+All Grades,2008,All Students,24134,662
+All Grades,2009,All Students,24284,673
+All Grades,2010,All Students,23772,672
+All Grades,2011,All Students,24024,673
+All Grades,2012,All Students,23984,674
+3,2006,All Students,3147,673
+3,2007,All Students,3227,681
+3,2008,All Students,3130,683
+3,2009,All Students,3184,684
+3,2010,All Students,3236,686
+3,2011,All Students,3261,680
+3,2012,All Students,3333,681
+4,2006,All Students,3237,666
+4,2007,All Students,3152,669
+4,2008,All Students,3213,675
+4,2009,All Students,3175,681
+4,2010,All Students,3278,679
+4,2011,All Students,3268,680
+4,2012,All Students,3139,682
+5,2006,All Students,3073,655
+5,2007,All Students,3291,663
+5,2008,All Students,3196,670
+5,2009,All Students,3268,680
+5,2010,All Students,3232,678
+5,2011,All Students,3248,679
+5,2012,All Students,3321,680
+6,2006,All Students,2897,644
+6,2007,All Students,2907,651
+6,2008,All Students,3008,659
+6,2009,All Students,3095,665
+6,2010,All Students,3096,666
+6,2011,All Students,3110,668
+6,2012,All Students,3120,672
+7,2006,All Students,3060,633
+7,2007,All Students,3020,647
+7,2008,All Students,2993,654
+7,2009,All Students,3211,664
+7,2010,All Students,3109,660
+7,2011,All Students,3032,666
+7,2012,All Students,3093,667
+8,2006,All Students,3312,629
+8,2007,All Students,3095,638
+8,2008,All Students,3029,647
+8,2009,All Students,3128,656
+8,2010,All Students,3205,659
+8,2011,All Students,3160,661
+8,2012,All Students,3077,668
+All Grades,2006,All Students,18726,650
+All Grades,2007,All Students,18692,658
+All Grades,2008,All Students,18569,665
+All Grades,2009,All Students,19061,672
+All Grades,2010,All Students,19156,671
+All Grades,2011,All Students,19079,673
+All Grades,2012,All Students,19083,675
+3,2006,All Students,2019,659
+3,2007,All Students,1977,670
+3,2008,All Students,1879,672
+3,2009,All Students,1876,675
+3,2010,All Students,1821,680
+3,2011,All Students,1877,676
+3,2012,All Students,1879,677
+4,2006,All Students,1837,655
+4,2007,All Students,1913,658
+4,2008,All Students,1951,663
+4,2009,All Students,1844,672
+4,2010,All Students,1868,668
+4,2011,All Students,1866,671
+4,2012,All Students,1796,672
+5,2006,All Students,1908,644
+5,2007,All Students,1883,652
+5,2008,All Students,1902,660
+5,2009,All Students,1894,670
+5,2010,All Students,1859,667
+5,2011,All Students,1823,670
+5,2012,All Students,1883,669
+6,2006,All Students,2012,641
+6,2007,All Students,1736,646
+6,2008,All Students,1741,649
+6,2009,All Students,1775,657
+6,2010,All Students,1849,662
+6,2011,All Students,1757,666
+6,2012,All Students,1807,664
+7,2006,All Students,1887,627
+7,2007,All Students,1965,642
+7,2008,All Students,1857,649
+7,2009,All Students,1722,660
+7,2010,All Students,1852,658
+7,2011,All Students,1882,661
+7,2012,All Students,1784,664
+8,2006,All Students,1652,627
+8,2007,All Students,1946,633
+8,2008,All Students,1882,647
+8,2009,All Students,1797,657
+8,2010,All Students,1814,661
+8,2011,All Students,1844,663
+8,2012,All Students,1865,667
+All Grades,2006,All Students,11315,643
+All Grades,2007,All Students,11420,650
+All Grades,2008,All Students,11212,657
+All Grades,2009,All Students,10908,665
+All Grades,2010,All Students,11063,666
+All Grades,2011,All Students,11049,668
+All Grades,2012,All Students,11014,669
+3,2006,All Students,1293,666
+3,2007,All Students,1246,679
+3,2008,All Students,1154,680
+3,2009,All Students,1151,685
+3,2010,All Students,1097,687
+3,2011,All Students,1101,682
+3,2012,All Students,1096,685
+4,2006,All Students,1184,659
+4,2007,All Students,1238,667
+4,2008,All Students,1156,672
+4,2009,All Students,1149,684
+4,2010,All Students,1126,679
+4,2011,All Students,1067,679
+4,2012,All Students,1062,683
+5,2006,All Students,1260,652
+5,2007,All Students,1174,662
+5,2008,All Students,1128,670
+5,2009,All Students,1051,676
+5,2010,All Students,1066,675
+5,2011,All Students,1058,679
+5,2012,All Students,965,683
+6,2006,All Students,1170,636
+6,2007,All Students,1226,648
+6,2008,All Students,1120,662
+6,2009,All Students,1142,664
+6,2010,All Students,1148,663
+6,2011,All Students,1138,668
+6,2012,All Students,1060,668
+7,2006,All Students,1194,629
+7,2007,All Students,1184,639
+7,2008,All Students,1347,658
+7,2009,All Students,1102,664
+7,2010,All Students,1110,660
+7,2011,All Students,1117,664
+7,2012,All Students,1102,666
+8,2006,All Students,1321,633
+8,2007,All Students,1190,639
+8,2008,All Students,1229,650
+8,2009,All Students,1281,658
+8,2010,All Students,1107,658
+8,2011,All Students,1124,662
+8,2012,All Students,1086,667
+All Grades,2006,All Students,7422,646
+All Grades,2007,All Students,7258,656
+All Grades,2008,All Students,7134,665
+All Grades,2009,All Students,6876,672
+All Grades,2010,All Students,6654,670
+All Grades,2011,All Students,6605,672
+All Grades,2012,All Students,6371,675
+3,2006,All Students,1477,667
+3,2007,All Students,1458,680
+3,2008,All Students,1370,682
+3,2009,All Students,1348,688
+3,2010,All Students,1327,686
+3,2011,All Students,1308,682
+3,2012,All Students,1353,684
+4,2006,All Students,1378,667
+4,2007,All Students,1400,669
+4,2008,All Students,1390,679
+4,2009,All Students,1323,688
+4,2010,All Students,1314,682
+4,2011,All Students,1316,682
+4,2012,All Students,1253,685
+5,2006,All Students,1513,658
+5,2007,All Students,1420,671
+5,2008,All Students,1344,677
+5,2009,All Students,1312,681
+5,2010,All Students,1267,681
+5,2011,All Students,1276,682
+5,2012,All Students,1256,685
+6,2006,All Students,1636,639
+6,2007,All Students,1439,655
+6,2008,All Students,1383,658
+6,2009,All Students,1357,666
+6,2010,All Students,1383,667
+6,2011,All Students,1337,668
+6,2012,All Students,1315,670
+7,2006,All Students,1516,635
+7,2007,All Students,1660,647
+7,2008,All Students,1480,659
+7,2009,All Students,1405,670
+7,2010,All Students,1372,666
+7,2011,All Students,1376,669
+7,2012,All Students,1292,670
+8,2006,All Students,1552,628
+8,2007,All Students,1484,643
+8,2008,All Students,1522,655
+8,2009,All Students,1454,663
+8,2010,All Students,1412,669
+8,2011,All Students,1369,668
+8,2012,All Students,1342,674
+All Grades,2006,All Students,9072,649
+All Grades,2007,All Students,8861,660
+All Grades,2008,All Students,8489,668
+All Grades,2009,All Students,8199,676
+All Grades,2010,All Students,8075,675
+All Grades,2011,All Students,7982,675
+All Grades,2012,All Students,7811,678
+3,2006,All Students,2354,678
+3,2007,All Students,2284,687
+3,2008,All Students,2228,688
+3,2009,All Students,2291,694
+3,2010,All Students,2346,695
+3,2011,All Students,2524,689
+3,2012,All Students,2578,693
+4,2006,All Students,2260,672
+4,2007,All Students,2230,680
+4,2008,All Students,2222,686
+4,2009,All Students,2169,694
+4,2010,All Students,2309,692
+4,2011,All Students,2358,693
+4,2012,All Students,2468,698
+5,2006,All Students,2305,666
+5,2007,All Students,2158,674
+5,2008,All Students,2173,679
+5,2009,All Students,2158,687
+5,2010,All Students,2128,689
+5,2011,All Students,2280,691
+5,2012,All Students,2277,696
+6,2006,All Students,1759,650
+6,2007,All Students,1745,659
+6,2008,All Students,1735,670
+6,2009,All Students,1671,676
+6,2010,All Students,1623,680
+6,2011,All Students,1550,683
+6,2012,All Students,1681,684
+7,2006,All Students,1815,640
+7,2007,All Students,1780,658
+7,2008,All Students,1729,663
+7,2009,All Students,1673,676
+7,2010,All Students,1688,676
+7,2011,All Students,1664,679
+7,2012,All Students,1539,682
+8,2006,All Students,1697,635
+8,2007,All Students,1757,648
+8,2008,All Students,1777,660
+8,2009,All Students,1691,666
+8,2010,All Students,1673,674
+8,2011,All Students,1707,677
+8,2012,All Students,1659,679
+All Grades,2006,All Students,12190,659
+All Grades,2007,All Students,11954,669
+All Grades,2008,All Students,11864,675
+All Grades,2009,All Students,11653,683
+All Grades,2010,All Students,11767,686
+All Grades,2011,All Students,12083,686
+All Grades,2012,All Students,12202,690
+3,2006,All Students,1021,657
+3,2007,All Students,979,670
+3,2008,All Students,913,676
+3,2009,All Students,866,684
+3,2010,All Students,911,682
+3,2011,All Students,799,682
+3,2012,All Students,785,681
+4,2006,All Students,905,654
+4,2007,All Students,950,657
+4,2008,All Students,911,669
+4,2009,All Students,922,680
+4,2010,All Students,890,680
+4,2011,All Students,889,681
+4,2012,All Students,800,683
+5,2006,All Students,998,646
+5,2007,All Students,927,655
+5,2008,All Students,836,663
+5,2009,All Students,856,673
+5,2010,All Students,903,673
+5,2011,All Students,876,677
+5,2012,All Students,763,677
+6,2006,All Students,946,632
+6,2007,All Students,857,640
+6,2008,All Students,830,649
+6,2009,All Students,692,658
+6,2010,All Students,643,659
+6,2011,All Students,718,664
+6,2012,All Students,703,663
+7,2006,All Students,964,630
+7,2007,All Students,983,636
+7,2008,All Students,848,650
+7,2009,All Students,812,658
+7,2010,All Students,690,655
+7,2011,All Students,654,659
+7,2012,All Students,709,663
+8,2006,All Students,970,629
+8,2007,All Students,992,632
+8,2008,All Students,871,643
+8,2009,All Students,823,654
+8,2010,All Students,817,658
+8,2011,All Students,714,660
+8,2012,All Students,666,665
+All Grades,2006,All Students,5804,641
+All Grades,2007,All Students,5688,648
+All Grades,2008,All Students,5209,659
+All Grades,2009,All Students,4971,669
+All Grades,2010,All Students,4854,669
+All Grades,2011,All Students,4650,671
+All Grades,2012,All Students,4426,673
+3,2006,All Students,2336,664
+3,2007,All Students,2218,677
+3,2008,All Students,1983,679
+3,2009,All Students,1983,683
+3,2010,All Students,2086,685
+3,2011,All Students,1981,682
+3,2012,All Students,1922,682
+4,2006,All Students,2125,660
+4,2007,All Students,2160,664
+4,2008,All Students,2073,668
+4,2009,All Students,1988,683
+4,2010,All Students,1980,673
+4,2011,All Students,2000,675
+4,2012,All Students,1886,678
+5,2006,All Students,2177,645
+5,2007,All Students,2170,659
+5,2008,All Students,2010,667
+5,2009,All Students,1985,674
+5,2010,All Students,1982,674
+5,2011,All Students,1893,675
+5,2012,All Students,1823,677
+6,2007,All Students,2268,643
+6,2008,All Students,1835,655
+6,2009,All Students,2100,663
+6,2010,All Students,2168,665
+6,2011,All Students,2139,670
+6,2012,All Students,2076,670
+7,2006,All Students,2524,628
+7,2007,All Students,2360,640
+7,2008,All Students,2247,649
+7,2009,All Students,2183,664
+7,2010,All Students,2137,662
+7,2011,All Students,2172,665
+7,2012,All Students,2105,667
+8,2006,All Students,2521,623
+8,2007,All Students,2518,634
+8,2008,All Students,2106,648
+8,2009,All Students,2297,657
+8,2010,All Students,2224,663
+8,2011,All Students,2209,665
+8,2012,All Students,2160,670
+All Grades,2006,All Students,14000,641
+All Grades,2007,All Students,13694,652
+All Grades,2008,All Students,12254,661
+All Grades,2009,All Students,12536,670
+All Grades,2010,All Students,12577,670
+All Grades,2011,All Students,12394,672
+All Grades,2012,All Students,11972,674
+3,2006,All Students,1873,670
+3,2007,All Students,1799,680
+3,2008,All Students,1690,682
+3,2009,All Students,1768,683
+3,2010,All Students,1721,686
+3,2011,All Students,1693,681
+3,2012,All Students,1605,683
+4,2006,All Students,1976,667
+4,2007,All Students,1807,671
+4,2008,All Students,1785,675
+4,2009,All Students,1760,684
+4,2010,All Students,1818,678
+4,2011,All Students,1748,681
+4,2012,All Students,1656,680
+5,2006,All Students,2013,659
+5,2007,All Students,1958,667
+5,2008,All Students,1743,674
+5,2009,All Students,1737,680
+5,2010,All Students,1682,679
+5,2011,All Students,1680,679
+5,2012,All Students,1626,682
+6,2006,All Students,1471,641
+6,2007,All Students,1466,649
+6,2008,All Students,1437,658
+6,2009,All Students,1304,664
+6,2010,All Students,1488,668
+6,2011,All Students,1512,670
+6,2012,All Students,1469,671
+7,2006,All Students,1556,633
+7,2007,All Students,1560,645
+7,2008,All Students,1478,657
+7,2009,All Students,1488,669
+7,2010,All Students,1411,661
+7,2011,All Students,1535,668
+7,2012,All Students,1473,670
+8,2006,All Students,1675,630
+8,2007,All Students,1622,640
+8,2008,All Students,1517,650
+8,2009,All Students,1497,661
+8,2010,All Students,1532,665
+8,2011,All Students,1420,666
+8,2012,All Students,1537,670
+All Grades,2006,All Students,10564,651
+All Grades,2007,All Students,10212,660
+All Grades,2008,All Students,9650,667
+All Grades,2009,All Students,9554,674
+All Grades,2010,All Students,9652,673
+All Grades,2011,All Students,9588,675
+All Grades,2012,All Students,9366,676
+3,2006,All Students,2354,672
+3,2007,All Students,2411,677
+3,2008,All Students,2283,676
+3,2009,All Students,2266,685
+3,2010,All Students,2224,683
+3,2011,All Students,2236,678
+3,2012,All Students,2147,679
+4,2006,All Students,2341,663
+4,2007,All Students,2294,669
+4,2008,All Students,2333,671
+4,2009,All Students,2258,679
+4,2010,All Students,2249,675
+4,2011,All Students,2253,676
+4,2012,All Students,2162,677
+5,2006,All Students,2284,656
+5,2007,All Students,2357,661
+5,2008,All Students,2224,666
+5,2009,All Students,2236,673
+5,2010,All Students,2159,670
+5,2011,All Students,2134,672
+5,2012,All Students,2075,676
+6,2006,All Students,2295,642
+6,2007,All Students,2024,657
+6,2008,All Students,2082,656
+6,2009,All Students,1975,667
+6,2010,All Students,1956,664
+6,2011,All Students,1943,669
+6,2012,All Students,1948,665
+7,2006,All Students,2250,628
+7,2007,All Students,2339,646
+7,2008,All Students,2029,654
+7,2009,All Students,2046,661
+7,2010,All Students,1960,661
+7,2011,All Students,1925,662
+7,2012,All Students,1948,661
+8,2006,All Students,2235,633
+8,2007,All Students,2261,639
+8,2008,All Students,2228,649
+8,2009,All Students,2097,656
+8,2010,All Students,2093,661
+8,2011,All Students,2028,660
+8,2012,All Students,1914,663
+All Grades,2006,All Students,13759,649
+All Grades,2007,All Students,13686,658
+All Grades,2008,All Students,13179,662
+All Grades,2009,All Students,12878,671
+All Grades,2010,All Students,12641,669
+All Grades,2011,All Students,12519,670
+All Grades,2012,All Students,12194,670
+3,2006,All Students,2915,691
+3,2007,All Students,2886,697
+3,2008,All Students,2967,698
+3,2009,All Students,3030,700
+3,2010,All Students,3081,698
+3,2011,All Students,3325,690
+3,2012,All Students,3557,693
+4,2006,All Students,2985,687
+4,2007,All Students,2927,693
+4,2008,All Students,2875,694
+4,2009,All Students,2970,702
+4,2010,All Students,3159,698
+4,2011,All Students,3123,698
+4,2012,All Students,3320,703
+5,2006,All Students,2911,680
+5,2007,All Students,3011,689
+5,2008,All Students,2944,694
+5,2009,All Students,2897,697
+5,2010,All Students,3080,694
+5,2011,All Students,3248,697
+5,2012,All Students,3181,700
+6,2006,All Students,3175,661
+6,2007,All Students,3147,676
+6,2008,All Students,3150,682
+6,2009,All Students,3035,686
+6,2010,All Students,3219,687
+6,2011,All Students,3394,690
+6,2012,All Students,3576,694
+7,2006,All Students,3080,653
+7,2007,All Students,3118,670
+7,2008,All Students,3307,677
+7,2009,All Students,3224,685
+7,2010,All Students,3250,683
+7,2011,All Students,3341,686
+7,2012,All Students,3436,689
+8,2006,All Students,3260,657
+8,2007,All Students,3080,662
+8,2008,All Students,3128,676
+8,2009,All Students,3370,680
+8,2010,All Students,3574,687
+8,2011,All Students,3405,688
+8,2012,All Students,3492,689
+All Grades,2006,All Students,18326,671
+All Grades,2007,All Students,18169,681
+All Grades,2008,All Students,18371,686
+All Grades,2009,All Students,18526,691
+All Grades,2010,All Students,19363,691
+All Grades,2011,All Students,19836,691
+All Grades,2012,All Students,20562,695
+3,2006,All Students,1934,682
+3,2007,All Students,1969,689
+3,2008,All Students,1922,690
+3,2009,All Students,1879,696
+3,2010,All Students,1949,696
+3,2011,All Students,1937,689
+3,2012,All Students,1935,690
+4,2006,All Students,1946,682
+4,2007,All Students,1936,684
+4,2008,All Students,1948,684
+4,2009,All Students,1940,697
+4,2010,All Students,1916,691
+4,2011,All Students,1997,693
+4,2012,All Students,1936,698
+5,2006,All Students,1987,674
+5,2007,All Students,1986,683
+5,2008,All Students,1952,686
+5,2009,All Students,1941,690
+5,2010,All Students,1905,689
+5,2011,All Students,1867,692
+5,2012,All Students,1967,694
+6,2006,All Students,2895,667
+6,2007,All Students,2730,680
+6,2008,All Students,2712,688
+6,2009,All Students,2769,692
+6,2010,All Students,2613,693
+6,2011,All Students,2597,694
+6,2012,All Students,2587,696
+7,2006,All Students,3112,659
+7,2007,All Students,2837,672
+7,2008,All Students,2675,682
+7,2009,All Students,2799,691
+7,2010,All Students,2802,688
+7,2011,All Students,2655,690
+7,2012,All Students,2568,692
+8,2006,All Students,3137,660
+8,2007,All Students,3146,665
+8,2008,All Students,2813,676
+8,2009,All Students,2831,685
+8,2010,All Students,2913,691
+8,2011,All Students,2851,691
+8,2012,All Students,2705,691
+All Grades,2006,All Students,15011,669
+All Grades,2007,All Students,14604,677
+All Grades,2008,All Students,14022,684
+All Grades,2009,All Students,14159,691
+All Grades,2010,All Students,14098,691
+All Grades,2011,All Students,13904,691
+All Grades,2012,All Students,13698,694
+3,2006,All Students,2810,683
+3,2007,All Students,2910,692
+3,2008,All Students,2804,692
+3,2009,All Students,2856,697
+3,2010,All Students,2975,695
+3,2011,All Students,2975,687
+3,2012,All Students,2889,689
+4,2006,All Students,2892,678
+4,2007,All Students,2795,680
+4,2008,All Students,2948,686
+4,2009,All Students,2869,694
+4,2010,All Students,2992,691
+4,2011,All Students,3024,691
+4,2012,All Students,2947,695
+5,2006,All Students,2949,668
+5,2007,All Students,2935,679
+5,2008,All Students,2822,686
+5,2009,All Students,2950,688
+5,2010,All Students,2874,686
+5,2011,All Students,2942,690
+5,2012,All Students,2978,694
+6,2006,All Students,2609,660
+6,2007,All Students,2546,664
+6,2008,All Students,2580,675
+6,2009,All Students,2478,678
+6,2010,All Students,2493,679
+6,2011,All Students,2422,679
+6,2012,All Students,2379,684
+7,2006,All Students,2562,652
+7,2007,All Students,2719,662
+7,2008,All Students,2609,667
+7,2009,All Students,2523,679
+7,2010,All Students,2475,674
+7,2011,All Students,2500,677
+7,2012,All Students,2401,679
+8,2006,All Students,2704,649
+8,2007,All Students,2623,651
+8,2008,All Students,2681,663
+8,2009,All Students,2582,670
+8,2010,All Students,2602,678
+8,2011,All Students,2480,678
+8,2012,All Students,2525,680
+All Grades,2006,All Students,16526,665
+All Grades,2007,All Students,16528,672
+All Grades,2008,All Students,16444,679
+All Grades,2009,All Students,16258,685
+All Grades,2010,All Students,16411,684
+All Grades,2011,All Students,16343,684
+All Grades,2012,All Students,16119,687
+3,2006,All Students,1145,663
+3,2007,All Students,1157,671
+3,2008,All Students,1166,667
+3,2009,All Students,1066,673
+3,2010,All Students,1012,675
+3,2011,All Students,1040,671
+3,2012,All Students,1005,674
+4,2006,All Students,1170,655
+4,2007,All Students,1105,661
+4,2008,All Students,1098,661
+4,2009,All Students,1018,668
+4,2010,All Students,1054,664
+4,2011,All Students,1003,666
+4,2012,All Students,967,665
+5,2006,All Students,1214,647
+5,2007,All Students,1223,654
+5,2008,All Students,1125,656
+5,2009,All Students,1048,667
+5,2010,All Students,950,663
+5,2011,All Students,986,668
+5,2012,All Students,894,668
+6,2006,All Students,1503,649
+6,2007,All Students,1325,659
+6,2008,All Students,1328,660
+6,2009,All Students,1329,664
+6,2010,All Students,1287,666
+6,2011,All Students,1147,666
+6,2012,All Students,1198,663
+7,2006,All Students,1448,638
+7,2007,All Students,1468,650
+7,2008,All Students,1398,655
+7,2009,All Students,1275,664
+7,2010,All Students,1359,658
+7,2011,All Students,1334,664
+7,2012,All Students,1159,663
+8,2006,All Students,1267,633
+8,2007,All Students,1451,643
+8,2008,All Students,1409,648
+8,2009,All Students,1317,655
+8,2010,All Students,1302,660
+8,2011,All Students,1326,660
+8,2012,All Students,1281,664
+All Grades,2006,All Students,7747,647
+All Grades,2007,All Students,7729,656
+All Grades,2008,All Students,7524,657
+All Grades,2009,All Students,7053,665
+All Grades,2010,All Students,6964,664
+All Grades,2011,All Students,6836,665
+All Grades,2012,All Students,6504,666
+3,2006,All Students,3901,683
+3,2007,All Students,3853,689
+3,2008,All Students,3951,691
+3,2009,All Students,4176,694
+3,2010,All Students,4256,695
+3,2011,All Students,4556,688
+3,2012,All Students,4673,690
+4,2006,All Students,3830,676
+4,2007,All Students,3860,683
+4,2008,All Students,3805,684
+4,2009,All Students,3930,695
+4,2010,All Students,4230,691
+4,2011,All Students,4258,692
+4,2012,All Students,4553,695
+5,2006,All Students,4041,667
+5,2007,All Students,3856,678
+5,2008,All Students,3839,686
+5,2009,All Students,3841,689
+5,2010,All Students,3931,690
+5,2011,All Students,4250,690
+5,2012,All Students,4281,694
+6,2006,All Students,3524,655
+6,2007,All Students,3569,668
+6,2008,All Students,3537,677
+6,2009,All Students,3607,683
+6,2010,All Students,3711,681
+6,2011,All Students,3831,685
+6,2012,All Students,3971,685
+7,2006,All Students,3795,646
+7,2007,All Students,3796,661
+7,2008,All Students,3849,671
+7,2009,All Students,3823,682
+7,2010,All Students,3881,678
+7,2011,All Students,4027,679
+7,2012,All Students,4003,683
+8,2006,All Students,3808,645
+8,2007,All Students,3806,654
+8,2008,All Students,3801,668
+8,2009,All Students,3914,676
+8,2010,All Students,4005,683
+8,2011,All Students,3999,682
+8,2012,All Students,4104,685
+All Grades,2006,All Students,22899,662
+All Grades,2007,All Students,22740,672
+All Grades,2008,All Students,22782,680
+All Grades,2009,All Students,23291,687
+All Grades,2010,All Students,24014,686
+All Grades,2011,All Students,24921,686
+All Grades,2012,All Students,25585,689
+3,2006,All Students,2171,697
+3,2007,All Students,2109,703
+3,2008,All Students,2148,700
+3,2009,All Students,2349,703
+3,2010,All Students,2332,702
+3,2011,All Students,2504,695
+3,2012,All Students,2491,697
+4,2006,All Students,2227,691
+4,2007,All Students,2181,696
+4,2008,All Students,2109,696
+4,2009,All Students,2189,703
+4,2010,All Students,2437,700
+4,2011,All Students,2322,702
+4,2012,All Students,2449,707
+5,2006,All Students,2202,681
+5,2007,All Students,2215,690
+5,2008,All Students,2168,697
+5,2009,All Students,2149,699
+5,2010,All Students,2273,697
+5,2011,All Students,2446,698
+5,2012,All Students,2322,705
+6,2006,All Students,2287,678
+6,2007,All Students,2239,691
+6,2008,All Students,2247,691
+6,2009,All Students,2267,694
+6,2010,All Students,2299,690
+6,2011,All Students,2374,694
+6,2012,All Students,2542,696
+7,2006,All Students,2318,663
+7,2007,All Students,2342,676
+7,2008,All Students,2247,689
+7,2009,All Students,2327,693
+7,2010,All Students,2401,689
+7,2011,All Students,2355,689
+7,2012,All Students,2442,691
+8,2006,All Students,2215,661
+8,2007,All Students,2307,670
+8,2008,All Students,2325,678
+8,2009,All Students,2290,687
+8,2010,All Students,2467,693
+8,2011,All Students,2477,691
+8,2012,All Students,2390,690
+All Grades,2006,All Students,13420,678
+All Grades,2007,All Students,13393,687
+All Grades,2008,All Students,13244,691
+All Grades,2009,All Students,13571,696
+All Grades,2010,All Students,14209,695
+All Grades,2011,All Students,14478,695
+All Grades,2012,All Students,14636,698
+3,2006,All Students,1621,708
+3,2007,All Students,1636,712
+3,2008,All Students,1615,713
+3,2009,All Students,1704,718
+3,2010,All Students,1597,717
+3,2011,All Students,1604,701
+3,2012,All Students,1672,703
+4,2006,All Students,1721,704
+4,2007,All Students,1657,712
+4,2008,All Students,1637,715
+4,2009,All Students,1621,723
+4,2010,All Students,1784,716
+4,2011,All Students,1653,715
+4,2012,All Students,1682,717
+5,2006,All Students,1772,700
+5,2007,All Students,1744,704
+5,2008,All Students,1709,710
+5,2009,All Students,1696,710
+5,2010,All Students,1685,710
+5,2011,All Students,1831,711
+5,2012,All Students,1713,716
+6,2006,All Students,1959,684
+6,2007,All Students,1932,698
+6,2008,All Students,1875,702
+6,2009,All Students,1872,704
+6,2010,All Students,1882,704
+6,2011,All Students,1823,706
+6,2012,All Students,1954,711
+7,2006,All Students,1953,677
+7,2007,All Students,1886,690
+7,2008,All Students,1918,699
+7,2009,All Students,1960,704
+7,2010,All Students,1933,701
+7,2011,All Students,1910,702
+7,2012,All Students,1863,704
+8,2006,All Students,2124,675
+8,2007,All Students,1957,685
+8,2008,All Students,1988,693
+8,2009,All Students,2009,698
+8,2010,All Students,2037,699
+8,2011,All Students,1966,701
+8,2012,All Students,1952,701
+All Grades,2006,All Students,11150,690
+All Grades,2007,All Students,10812,699
+All Grades,2008,All Students,10742,705
+All Grades,2009,All Students,10862,709
+All Grades,2010,All Students,10918,707
+All Grades,2011,All Students,10787,706
+All Grades,2012,All Students,10836,708
+3,2006,All Students,3411,682
+3,2007,All Students,3555,690
+3,2008,All Students,3566,689
+3,2009,All Students,3614,693
+3,2010,All Students,3675,692
+3,2011,All Students,3728,685
+3,2012,All Students,3747,687
+4,2006,All Students,3477,678
+4,2007,All Students,3438,683
+4,2008,All Students,3593,685
+4,2009,All Students,3548,695
+4,2010,All Students,3603,688
+4,2011,All Students,3735,690
+4,2012,All Students,3614,689
+5,2006,All Students,3547,672
+5,2007,All Students,3587,680
+5,2008,All Students,3448,683
+5,2009,All Students,3635,688
+5,2010,All Students,3629,686
+5,2011,All Students,3600,688
+5,2012,All Students,3719,691
+6,2006,All Students,3546,657
+6,2007,All Students,3645,672
+6,2008,All Students,3602,673
+6,2009,All Students,3564,679
+6,2010,All Students,3687,680
+6,2011,All Students,3677,682
+6,2012,All Students,3754,684
+7,2006,All Students,3724,647
+7,2007,All Students,3747,660
+7,2008,All Students,3877,668
+7,2009,All Students,3796,677
+7,2010,All Students,3727,674
+7,2011,All Students,3867,675
+7,2012,All Students,3725,678
+8,2006,All Students,3608,641
+8,2007,All Students,3796,653
+8,2008,All Students,3684,663
+8,2009,All Students,3876,672
+8,2010,All Students,3840,677
+8,2011,All Students,3772,676
+8,2012,All Students,3831,678
+All Grades,2006,All Students,21313,662
+All Grades,2007,All Students,21768,672
+All Grades,2008,All Students,21770,676
+All Grades,2009,All Students,22033,684
+All Grades,2010,All Students,22161,683
+All Grades,2011,All Students,22379,683
+All Grades,2012,All Students,22390,684
+3,2006,All Students,2434,681
+3,2007,All Students,2506,688
+3,2008,All Students,2408,690
+3,2009,All Students,2592,691
+3,2010,All Students,2543,695
+3,2011,All Students,2645,687
+3,2012,All Students,2685,688
+4,2006,All Students,2423,678
+4,2007,All Students,2424,681
+4,2008,All Students,2484,685
+4,2009,All Students,2409,693
+4,2010,All Students,2635,686
+4,2011,All Students,2563,689
+4,2012,All Students,2614,691
+5,2006,All Students,2518,670
+5,2007,All Students,2350,679
+5,2008,All Students,2374,681
+5,2009,All Students,2466,686
+5,2010,All Students,2400,686
+5,2011,All Students,2648,686
+5,2012,All Students,2538,694
+6,2006,All Students,2402,665
+6,2007,All Students,2411,674
+6,2008,All Students,2246,680
+6,2009,All Students,2329,683
+6,2010,All Students,2503,681
+6,2011,All Students,2465,682
+6,2012,All Students,2603,682
+7,2006,All Students,2249,652
+7,2007,All Students,2237,662
+7,2008,All Students,2239,669
+7,2009,All Students,2122,678
+7,2010,All Students,2217,673
+7,2011,All Students,2319,677
+7,2012,All Students,2296,679
+8,2006,All Students,2158,653
+8,2007,All Students,2295,654
+8,2008,All Students,2226,666
+8,2009,All Students,2315,672
+8,2010,All Students,2201,677
+8,2011,All Students,2269,674
+8,2012,All Students,2333,680
+All Grades,2006,All Students,14184,667
+All Grades,2007,All Students,14223,673
+All Grades,2008,All Students,13977,679
+All Grades,2009,All Students,14233,684
+All Grades,2010,All Students,14499,683
+All Grades,2011,All Students,14909,683
+All Grades,2012,All Students,15069,686
+3,2006,All Students,2673,670
+3,2007,All Students,2656,679
+3,2008,All Students,2586,680
+3,2009,All Students,2633,684
+3,2010,All Students,2705,686
+3,2011,All Students,2658,682
+3,2012,All Students,2549,683
+4,2006,All Students,2673,667
+4,2007,All Students,2611,670
+4,2008,All Students,2646,674
+4,2009,All Students,2633,681
+4,2010,All Students,2709,675
+4,2011,All Students,2713,680
+4,2012,All Students,2610,681
+5,2006,All Students,2779,656
+5,2007,All Students,2803,667
+5,2008,All Students,2684,672
+5,2009,All Students,2681,678
+5,2010,All Students,2747,675
+5,2011,All Students,2699,678
+5,2012,All Students,2686,680
+6,2006,All Students,2546,650
+6,2007,All Students,2553,661
+6,2008,All Students,2604,666
+6,2009,All Students,2598,670
+6,2010,All Students,2591,667
+6,2011,All Students,2534,670
+6,2012,All Students,2476,671
+7,2006,All Students,2581,639
+7,2007,All Students,2641,650
+7,2008,All Students,2620,659
+7,2009,All Students,2649,669
+7,2010,All Students,2687,663
+7,2011,All Students,2675,665
+7,2012,All Students,2562,665
+8,2006,All Students,2651,635
+8,2007,All Students,2628,645
+8,2008,All Students,2720,653
+8,2009,All Students,2664,661
+8,2010,All Students,2748,665
+8,2011,All Students,2674,667
+8,2012,All Students,2688,670
+All Grades,2006,All Students,15903,653
+All Grades,2007,All Students,15892,662
+All Grades,2008,All Students,15860,667
+All Grades,2009,All Students,15858,674
+All Grades,2010,All Students,16187,672
+All Grades,2011,All Students,15953,674
+All Grades,2012,All Students,15571,675
+3,2006,All Students,2949,682
+3,2007,All Students,3022,690
+3,2008,All Students,2881,689
+3,2009,All Students,2970,694
+3,2010,All Students,2975,693
+3,2011,All Students,3047,686
+3,2012,All Students,3126,689
+4,2006,All Students,2905,675
+4,2007,All Students,2924,680
+4,2008,All Students,3000,683
+4,2009,All Students,2864,692
+4,2010,All Students,2995,688
+4,2011,All Students,2998,689
+4,2012,All Students,3017,692
+5,2006,All Students,3062,668
+5,2007,All Students,2962,678
+5,2008,All Students,2924,682
+5,2009,All Students,2972,688
+5,2010,All Students,2962,687
+5,2011,All Students,3029,691
+5,2012,All Students,3101,691
+6,2006,All Students,3179,659
+6,2007,All Students,3208,672
+6,2008,All Students,3088,678
+6,2009,All Students,3126,682
+6,2010,All Students,3205,683
+6,2011,All Students,3179,685
+6,2012,All Students,3392,687
+7,2006,All Students,3032,650
+7,2007,All Students,2953,661
+7,2008,All Students,2949,675
+7,2009,All Students,2912,681
+7,2010,All Students,3023,679
+7,2011,All Students,3056,681
+7,2012,All Students,3040,684
+8,2006,All Students,3009,645
+8,2007,All Students,3024,656
+8,2008,All Students,2880,666
+8,2009,All Students,2990,676
+8,2010,All Students,2991,682
+8,2011,All Students,3057,682
+8,2012,All Students,3038,685
+All Grades,2006,All Students,18136,663
+All Grades,2007,All Students,18093,673
+All Grades,2008,All Students,17722,679
+All Grades,2009,All Students,17834,685
+All Grades,2010,All Students,18151,685
+All Grades,2011,All Students,18366,685
+All Grades,2012,All Students,18714,688
+3,2006,All Students,4305,684
+3,2007,All Students,4365,690
+3,2008,All Students,4375,691
+3,2009,All Students,4519,694
+3,2010,All Students,4416,695
+3,2011,All Students,4721,688
+3,2012,All Students,4831,689
+4,2006,All Students,4276,681
+4,2007,All Students,4314,682
+4,2008,All Students,4306,686
+4,2009,All Students,4383,694
+4,2010,All Students,4530,689
+4,2011,All Students,4425,692
+4,2012,All Students,4634,694
+5,2006,All Students,4335,673
+5,2007,All Students,4389,680
+5,2008,All Students,4353,686
+5,2009,All Students,4357,692
+5,2010,All Students,4413,689
+5,2011,All Students,4522,690
+5,2012,All Students,4422,693
+6,2006,All Students,4231,656
+6,2007,All Students,4133,666
+6,2008,All Students,4227,675
+6,2009,All Students,4260,679
+6,2010,All Students,4245,680
+6,2011,All Students,4225,683
+6,2012,All Students,4302,683
+7,2006,All Students,4262,651
+7,2007,All Students,4300,662
+7,2008,All Students,4253,672
+7,2009,All Students,4337,677
+7,2010,All Students,4260,676
+7,2011,All Students,4275,679
+7,2012,All Students,4157,679
+8,2006,All Students,4468,648
+8,2007,All Students,4380,654
+8,2008,All Students,4300,665
+8,2009,All Students,4305,672
+8,2010,All Students,4412,676
+8,2011,All Students,4352,676
+8,2012,All Students,4280,678
+All Grades,2006,All Students,25877,665
+All Grades,2007,All Students,25881,672
+All Grades,2008,All Students,25814,679
+All Grades,2009,All Students,26161,685
+All Grades,2010,All Students,26276,684
+All Grades,2011,All Students,26520,685
+All Grades,2012,All Students,26626,686
+3,2006,All Students,1582,665
+3,2007,All Students,1482,675
+3,2008,All Students,1402,678
+3,2009,All Students,1314,683
+3,2010,All Students,1339,685
+3,2011,All Students,1269,680
+3,2012,All Students,1284,680
+4,2006,All Students,1491,659
+4,2007,All Students,1506,665
+4,2008,All Students,1385,669
+4,2009,All Students,1364,680
+4,2010,All Students,1298,675
+4,2011,All Students,1339,673
+4,2012,All Students,1238,680
+5,2006,All Students,1521,649
+5,2007,All Students,1603,662
+5,2008,All Students,1529,669
+5,2009,All Students,1411,677
+5,2010,All Students,1372,676
+5,2011,All Students,1320,675
+5,2012,All Students,1325,677
+6,2006,All Students,1596,642
+6,2007,All Students,1568,655
+6,2008,All Students,1625,663
+6,2009,All Students,1576,670
+6,2010,All Students,1374,668
+6,2011,All Students,1405,671
+6,2012,All Students,1343,671
+7,2006,All Students,1580,629
+7,2007,All Students,1633,643
+7,2008,All Students,1570,658
+7,2009,All Students,1573,667
+7,2010,All Students,1525,665
+7,2011,All Students,1347,666
+7,2012,All Students,1361,663
+8,2006,All Students,1751,632
+8,2007,All Students,1566,635
+8,2008,All Students,1517,650
+8,2009,All Students,1590,662
+8,2010,All Students,1600,662
+8,2011,All Students,1541,664
+8,2012,All Students,1295,666
+All Grades,2006,All Students,9521,646
+All Grades,2007,All Students,9358,656
+All Grades,2008,All Students,9028,664
+All Grades,2009,All Students,8828,673
+All Grades,2010,All Students,8508,672
+All Grades,2011,All Students,8221,671
+All Grades,2012,All Students,7846,673
