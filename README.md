@@ -16,4 +16,4 @@ This project was meant as a basic ETL using PostgreSQL and "Pandas" Python libra
 Combine data of two datasets (different csv) into one single table (renaming columns,merging was performed) in Pandas Python Library.
   
 # Proposed Load
-PostgeSQL (pgAdmin) to be used to load the final (merged table)into and  to quiery from
+PostgeSQL (pgAdmin) to be used to load the final (merged table)into and  to quiery from.
